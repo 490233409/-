@@ -1,0 +1,27 @@
+# Keil 临时产物
+*.o
+*.d
+*.crf
+*.htm
+*.dep
+*.axf
+*.hex
+*.bin
+*.lnp
+*.iex
+*.sct
+*.scvd
+*.uvguix.*
+*.uvoptx
+*.bak
+Objects/
+Listings/
+DebugConfig/
+RTE/
+
+# 本地工具目录
+.embeddedskills/
+
+# 系统文件
+Thumbs.db
+.DS_Store
